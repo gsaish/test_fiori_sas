@@ -1,6 +1,6 @@
 ## Application Details
 |               |
-| ------------- |
+| ------------- | - hello
 |**Generation Date and Time**<br>Sun Nov 30 2025 07:19:45 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>SAP Fiori Application Generator|
 |**App Generator Version**<br>1.19.6|
